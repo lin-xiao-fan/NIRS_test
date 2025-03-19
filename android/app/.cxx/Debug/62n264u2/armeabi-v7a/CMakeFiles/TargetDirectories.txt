@@ -1,0 +1,2 @@
+D:/Downloads/Anxiety-main/Anxiety-main/android/app/.cxx/Debug/62n264u2/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Downloads/Anxiety-main/Anxiety-main/android/app/.cxx/Debug/62n264u2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
